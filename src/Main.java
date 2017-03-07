@@ -5,5 +5,6 @@ public class Main {
 	    System.out.println("Hello World!");
 	    System.out.println("This is from 'bruceschu'");
 	    System.out.println("This is from 'gnguser'");
+	    System.out.println("next line from gnguser");
     }
 }
