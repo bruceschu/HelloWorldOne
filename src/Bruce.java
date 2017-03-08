@@ -6,5 +6,6 @@ public class Bruce {
 	    System.out.println("Bruce init from bruceschu");
 	    System.out.println("merge01 bruceschu and gnguser");
 	    System.out.println("merge02 bruceschu and gnguser");
+	    System.out.println("simple01 gnguser");
     }
 }
