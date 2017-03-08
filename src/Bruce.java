@@ -8,6 +8,7 @@ public class Bruce {
 	    System.out.println("simple01 line add bruceschu");
 	    System.out.println("simple02 line add bruceschu");
 	    System.out.println("simple03 line add bruceschu");
+	    System.out.println("simple04 line add bruceschu");
 	    System.out.println("merge02 bruceschu and gnguser");
 	    System.out.println("simple01 gnguser");
 	    System.out.println("simple02 gnguser");
