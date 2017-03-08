@@ -1,2 +1,2 @@
 # This will ignore the runtime class files.
-bin/
+bin/*
